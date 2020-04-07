@@ -1,5 +1,5 @@
 # 15puzzlesolver
-It is a program which consists of BFS for 15 puzzle solving and Production System 
+This repositery consists of  Production System and code using BFS FOR SOLVING 15  PUZZLE PROBLEM 
 
 FOR PRODUCTION SYSTEM SEE THE REPORT 15PROD.PDF
 
